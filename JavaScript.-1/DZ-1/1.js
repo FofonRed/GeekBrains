@@ -1,4 +1,10 @@
-alert ('Hellow, JavaScript!');
-var = admin, name = 'Василий';
+alert('Привет, Javascript');
+
+var admin;
+var name;
+name = "Василий";
+alert(name);
+
+
 admin = name;
-alert (admin);
+alert(admin);
